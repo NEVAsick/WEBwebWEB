@@ -1,14 +1,7 @@
-# 📚 WEBwebWEB — лабораторные работы
-
 ## Список лабораторных работ:
 
-*   [Лабораторная работа 1](https://nevasick.github.io/WEBwebWEB/1WEB/) — *краткое описание*
-*   [Лабораторная работа 2](https://nevasick.github.io/WEBwebWEB/2WEB/) — *краткое описание*
-*   [Лабораторная работа 3](https://nevasick.github.io/WEBwebWEB/3WEB/) — *краткое описание*
-*   [Лабораторная работа 4](https://nevasick.github.io/WEBwebWEB/4WEB/) — *краткое описание*
-*   [Лабораторная работа 5](https://nevasick.github.io/WEBwebWEB/5WEB/) — *краткое описание*
-
----
-**Как открыть лабораторную:** Нажмите на нужную ссылку выше. Каждая работа находится в своей папке.
-
-> Если страница показывает "404", убедитесь, что в папке с работой есть файл `index.html`.
+*   [Лабораторная работа 1](https://nevasick.github.io/WEBwebWEB/1WEB/)
+*   [Лабораторная работа 2](https://nevasick.github.io/WEBwebWEB/2WEB/)
+*   [Лабораторная работа 3](https://nevasick.github.io/WEBwebWEB/3WEB/)
+*   [Лабораторная работа 4](https://nevasick.github.io/WEBwebWEB/4WEB/)
+*   [Лабораторная работа 5](https://nevasick.github.io/WEBwebWEB/5WEB/)
