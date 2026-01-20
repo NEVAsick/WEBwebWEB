@@ -7,15 +7,15 @@ export class MainPage {
         return [
             {
                 id: 1,
-                src: "../../assets/dog1.jpg",
+                src: "assets/dog1.jpg",
                 title: "Лабрадор",
-                breed: "Лабрадор-ретривер",
+                breed: "Лабрадор ретривер",
                 age: 10,
                 text: "Дружелюбная и энергичная порода, отличный компаньон для семьи."
             },
             {
                 id: 2,
-                src: "../../assets/dog2.jpg",
+                src: "assets/dog2.jpg",
                 title: "Немецкая овчарка",
                 breed: "Немецкая овчарка",
                 age: 4,
@@ -23,7 +23,7 @@ export class MainPage {
             },
             {
                 id: 3,
-                src: "../../assets/dog3.jpg",
+                src: "assets/dog3.jpg",
                 title: "Бульдог",
                 breed: "Английский бульдог",
                 age: 6,
@@ -31,9 +31,9 @@ export class MainPage {
             },
             {
                 id: 4,
-                src: "../../assets/dog4.jpg",
+                src: "assets/dog4.jpg",
                 title: "Золотистый ретривер",
-                breed: "Голден ретривер",
+                breed: "Золотой ретривер",
                 age: 9,
                 text: "Интеллектуальная, добрая и красивая порода."
             }
